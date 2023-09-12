@@ -12,6 +12,9 @@ body {
     background-color: #fff;
 }
 
+.carousel-item {
+    min-height: 550px;
+}
 
 @media (min-width: 576px) {
     .btn-circle {
@@ -19,5 +22,9 @@ body {
         width: 1.5rem !important;
         border-radius: 9999px;
         padding: 0px;
+    }
+
+    .carousel-item {
+        min-height: auto;
     }
 }
