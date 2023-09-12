@@ -13,7 +13,7 @@ body {
 }
 
 .carousel-item {
-    min-height: 550px;
+    min-height: 150px;
 }
 
 @media (min-width: 576px) {
