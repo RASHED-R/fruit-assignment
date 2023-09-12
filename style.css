@@ -8,6 +8,10 @@
     font-family: 'Lato', sans-serif;
 }
 
+body {
+    background-color: #fff;
+}
+
 
 @media (min-width: 576px) {
     .btn-circle {
