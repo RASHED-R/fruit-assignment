@@ -11,8 +11,8 @@
 
 @media (min-width: 576px) {
     .btn-circle {
-        height: 1.5rem;
-        width: 1.5rem;
+        height: 1.5rem !important;
+        width: 1.5rem !important;
         border-radius: 9999px;
         padding: 0px;
     }
